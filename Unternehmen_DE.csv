@@ -1,0 +1,31 @@
+Rank;Fortune 500rank;Name;Industry; Revenue(USD millions) ; Revenue ; Profits(USD millions) ; Profits ;Employees;Headquarters;Country
+1;15;Volkswagen;Automotive;293,69;293685000;15,22;15223000;675805;Wolfsburg;Germany
+2;16;Uniper;Electric utility;288,31;288309000;-19,96;-19961000;7008;Düsseldorf;Germany
+3;47;Mercedes-Benz Group;Automotive;157,78;157782000;15,25;15252000;168797;Stuttgart;Germany
+4;57;BMW;Automotive;149,99;149991000;18,87;18870000;149475;Munich;Germany
+5;67;Allianz;Insurance;129,06;129059000;7,09;7087000;159253;Munich;Germany
+6;73;E.ON;Electric utility;121,65;121646000;1,93;1926000;69378;Essen;Germany
+7;79;Deutsche Telekom;Telecommunications;120,11;120108000;8,42;8415000;206759;Bonn;Germany
+8;103;Deutsche Post;Transportation;99,32;99324000;5,64;5636000;554975;Bonn;Germany
+9;118;Robert Bosch GmbH;Automotive parts;91,85;91847000;1,37;1367000;421338;Stuttgart;Germany
+10;119;BASF;Chemicals;91,85;91846000;-660,00;-660000000;111481;Ludwigshafen;Germany
+11;162;Siemens;Conglomerate;77,86;77860000;4,03;4027000;311;Munich / Berlin;Germany
+12;170;Munich Re;Insurance;75,75;75747000;3,61;3610000;41389;Munich;Germany
+13;232;Deutsche Bahn;Transportation;59,21;59210000;-262,00;-262000000;324136;Berlin;Germany
+14;237;EnBW;Electric utility;58,90;58901000;1,83;1828000;25339;Karlsruhe;Germany
+15;249;Talanx;Insurance;56,03;56029000;1,23;1233000;23669;Hanover;Germany
+16;264;Daimler Truck;Automotive;53,58;53582000;2,80;2803000;102888;Leinfelden-Echterdingen;Germany
+17;265;Bayer;Pharmaceuticals;53,37;53365000;4,37;4365000;101369;Leverkusen;Germany
+18;288;Edeka Zentrale;Retail;49,48;49481000;416,00;416000000;4089;Hamburg;Germany
+19;315;ZF Friedrichshafen;Automotive parts;46,07;46068000;239,00;239000000;161901;Friedrichshafen;Germany
+20;330;ThyssenKrupp;Conglomerate;44,50;44502000;1,23;1229000;94494;Essen;Germany
+21;346;Fresenius;Healthcare;42,95;42954000;1,44;1443000;282024;Bad Homburg;Germany
+22;354;Deutsche Bank;Banking;42,29;42285000;5,70;5701000;8493;Frankfurt;Germany
+23;362;Continental AG;Automotive parts;41,45;41449000;70,00;70000000;199038;Hanover;Germany
+24;367;RWE;Electric utility;40,35;40352000;2,86;2858000;18278;Essen;Germany
+25;388;Phoenix Pharmahandel;Retail;38,05;38045000;252,00;252000000;35178;Mannheim;Germany
+26;416;Hapag-Lloyd;Shipping;36,33;36331000;252,00;252000000;14248;Hamburg;Germany
+27;438;Lufthansa;Airline;34,45;34446000;832,00;832000000;93083;Cologne;Germany
+28;472;SAP SE;Technology;32,47;32469000;2,40;2402000;111961;Walldorf;Germany
+29;474;Metro AG;Retail;32,19;32186000;-361,00;-361000000;8691;Düsseldorf;Germany
+30;490;Siemens Energy;Energy technology;31,37;31367000;-437,00;-437000000;53954;Munich;Germany
